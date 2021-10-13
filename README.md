@@ -1,6 +1,6 @@
 # Chirag sharma <img width="30px" src="Assets/sharingan.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/NUX_Octodex.gif" />
+<img align="right" alt="GIF" height="160px" src="Assets/NUX_Octodex.gif" />
 
 # <img width="30px" src="Assets/hello.gif" /> Hello world <img width="30px" src="Assets/earth.gif" />
 
