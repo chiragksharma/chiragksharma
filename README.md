@@ -7,8 +7,8 @@
 <p>
   <em>
     I am a Second Year undergraduate Computer Science Student. <br>
-    19 years of living a comical life! <br><img src="Assets/Naruto.png" width="30px">
-    <b>I am currently exploring more about various JS liabraries</b> <img src="Assets/js.png" width="30px"> and <b> also trying my hands on Backend Devlopment.</b>&nbsp;<img src="Assets/blobjump.gif" width="36px">  
+    19 years of living a comical life! <br><img src="Assets/Naruto.png" width="20px">
+    <b>I am currently exploring more about various JS liabraries</b> <img src="Assets/js.png" width="20px"> and <b> also trying my hands on Backend Devlopment.</b>&nbsp;<img src="Assets/blobjump.gif" width="26px">  
      <br>
     Building Applications is fun. I love building services that power the future of web.
     I Love <b>Video Editing</b> as well, xD. <br>
