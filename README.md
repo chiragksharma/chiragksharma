@@ -50,7 +50,7 @@
 
 ## Connect with me:<img src="Assets/Handshake.gif" height="32px">
 
-< href="https://discord.gg/Fb2yJHD6aA">
+  <a href="https://discord.gg/Fb2yJHD6aA">
     <img align="left" alt="Discord" width="24px" src="Assets/discord.svg"/>
   <a href="https://www.linkedin.com/in/chirag-kumar-sharma-5286b51b8">
     <img align="left" alt="Linkedin" width="24px" src="Assets/linkedin.svg"  />
