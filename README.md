@@ -53,7 +53,7 @@
 < href="https://discord.gg/Fb2yJHD6aA">
     <img align="left" alt="Discord" width="24px" src="Assets/discord.svg"/>
   <a href="https://www.linkedin.com/in/chirag-kumar-sharma-5286b51b8">
-    <img align="left" alt="Linkedin" width="24px" src="Assets/linkedin.svg" style="color: #0A66C2" />
+    <img align="left" alt="Linkedin" width="24px" src="Assets/linkedin.svg"  />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/chiragsharma862/">
     <img align="left" alt=" Instagram" width="24px" src="Assets/instagram.svg" />
