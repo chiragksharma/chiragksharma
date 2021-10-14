@@ -31,7 +31,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-nuxpd1k1x-chiragksharma.vercel.app/api/spotify)](https://open.spotify.com/user/313h53jfsifbnilpgavyjmpdso2u)
+<!-- [![Spotify](https://novatorem-nuxpd1k1x-chiragksharma.vercel.app/api/spotify)](https://open.spotify.com/user/313h53jfsifbnilpgavyjmpdso2u) -->
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/313h53jfsifbnilpgavyjmpdso2u)
 
 ---
 ## Languages and Tools:
